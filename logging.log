@@ -1,0 +1,240 @@
+2017-09-02 13:18:39 INFO  MailLoginTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:18:42 INFO  MailLoginTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 13:19:36 INFO  MailLoginTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:25:22 INFO  MailLoginTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:25:35 INFO  MailLoginTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 13:25:41 INFO  MailSavedAsDraftTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:25:52 INFO  MailSavedAsDraftTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 13:25:58 INFO  MailExistsInDraftsTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:26:08 INFO  MailExistsInDraftsTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 13:26:15 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:43:41 INFO  MailLoginTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:43:46 INFO  MailLoginTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 13:57:33 INFO  MailLoginTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 13:57:40 INFO  MailLoginTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 13:57:48 INFO  MailSavedAsDraftTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:01:21 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:01:21 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 14:02:01 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 14:04:05 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:04:05 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 14:04:43 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 14:07:59 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:07:59 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 14:08:40 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 14:11:24 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:11:24 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 14:12:06 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 14:28:00 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:28:00 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 14:28:44 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 14:35:58 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:35:58 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 14:36:40 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 14:38:31 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 14:38:31 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 14:39:11 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 18:33:53 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 18:33:53 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 18:34:12 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 18:39:59 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 18:39:59 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 18:40:43 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 18:41:42 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 18:41:42 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 18:42:23 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 19:10:08 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 19:10:08 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 19:10:20 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-02 19:11:17 INFO  SendAnEmailTest:20 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-02 19:11:17 INFO  SendAnEmailTest:24 - Test:Send an email ment.test
+2017-09-02 19:12:44 INFO  SendAnEmailTest:27 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:32:12 INFO  BaseTest:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:32:13 INFO  BaseTest:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:35:55 INFO  BaseTest:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:35:55 INFO  BaseTest:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:37:53 INFO  YandexLoginSteps:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:37:54 INFO  YandexLoginSteps:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:43:52 INFO  YandexLoginSteps:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:43:52 INFO  YandexLoginSteps:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:50:54 INFO  BaseTest:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:50:54 INFO  BaseTest:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:53:41 INFO  BaseTest:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:53:41 INFO  BaseTest:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:57:49 INFO  BaseTest:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:57:49 INFO  BaseTest:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 10:58:55 INFO  BaseTest:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 10:58:55 INFO  BaseTest:33 -  
+ 
+*** TEST END ***
+ 
+2017-09-04 11:00:17 INFO  BaseTest:26 -  
+ 
+*** TEST STARTS ***
+ 
+2017-09-04 11:00:18 INFO  BaseTest:33 -  
+ 
+*** TEST END ***
+ 

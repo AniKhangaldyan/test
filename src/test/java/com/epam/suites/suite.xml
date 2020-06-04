@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="bdd Tests">
+	
+	<test name="Mail Login Test">
+		<classes>
+			<class name="com.epam.mentoringDesignPatternsTask.MailLoginTest" />			
+		</classes>
+	</test>
+    <test name="Mail Saved As Draft Test">
+		<classes>
+			<class name="com.epam.mentoringDesignPatternsTask.MailSavedAsDraftTest" />			
+		</classes>
+	</test>
+	 
+	<test name="Mail Exists In Drafts Test">
+		<classes>
+			<class name="com.epam.mentoringDesignPatternsTask.MailExistsInDraftsTest" />			
+		</classes>
+	</test>
+	
+		<test name="Send An Email Test">
+		<classes>
+			<class name="com.epam.mentoringDesignPatternsTask.SendAnEmailTest" />			
+		</classes>
+	</test> 
+	<test name="Mail Exists In Sents Test">
+		<classes>
+			<class name="com.epam.mentoringDesignPatternsTask.MailExistsInSentsTest" />
+		</classes>
+	</test>
+	 
+</suite>

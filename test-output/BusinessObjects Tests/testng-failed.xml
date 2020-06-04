@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BusinessObjects Tests]">
+  <test name="Mail Login Test">
+    <classes>
+      <class name="com.epam.mentoringDesignPatternsTask.MailLoginTest"/>
+    </classes>
+  </test> <!-- Mail Login Test -->
+  <test name="Mail Saved As Draft Test">
+    <classes>
+      <class name="com.epam.mentoringDesignPatternsTask.MailSavedAsDraftTest"/>
+    </classes>
+  </test> <!-- Mail Saved As Draft Test -->
+  <test name="Mail Exists In Drafts Test">
+    <classes>
+      <class name="com.epam.mentoringDesignPatternsTask.MailExistsInDraftsTest"/>
+    </classes>
+  </test> <!-- Mail Exists In Drafts Test -->
+  <test name="Send An Email Test">
+    <classes>
+      <class name="com.epam.mentoringDesignPatternsTask.SendAnEmailTest"/>
+    </classes>
+  </test> <!-- Send An Email Test -->
+  <test name="Mail Exists In Sents Test">
+    <classes>
+      <class name="com.epam.mentoringDesignPatternsTask.MailExistsInSentsTest"/>
+    </classes>
+  </test> <!-- Mail Exists In Sents Test -->
+</suite> <!-- Failed suite [BusinessObjects Tests] -->
