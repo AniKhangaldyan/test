@@ -58,7 +58,7 @@ public abstract class BasePage {
 	/**
 	 * Wait until element is disappear
 	 * 
-	 * @param element
+	 * @param
 	 */
 	public void waitUntilElementDisappear(By xpath) {
 		 $(xpath).waitUntil( Condition.disappears, 10000);	
